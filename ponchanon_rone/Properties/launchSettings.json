@@ -1,0 +1,9 @@
+﻿{
+  "profiles": {
+    "ponchanon_rone": {
+      "commandName": "Project",
+      "commandLineArgs": "--port 7299",
+      "launchBrowser": false
+    }
+  }
+}
